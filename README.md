@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumyajeet Bal</h1>
 <h3 align="center">A DSA practitioner and Developer from India</h3>
-<img align="right" alt="Coding" src="https://images.squarespace-cdn.com/content/v1/5c007bfb2971147a30780a48/1650996800059-01BFMKJ629POIRF9PKN2/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif">
 <br>
 <br>
 
