@@ -3,7 +3,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Location-Bhubaneswar,_Odisha,_India-blue" alt="Location" />
-    <img src="https://img.shields.io/badge/Contact-tecsoumyajeet@gmail.com-red" alt="Contact" />
+    <img src="https://img.shields.io/badge/Contact-mail@soumstack.com-red" alt="Contact" />
     <a href="https://www.linkedin.com/in/soumtsack">
         <img src="https://img.shields.io/badge/LinkedIn-Soumyajeet_Bal-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -11,7 +11,7 @@
 
 <h3>About Me</h3>
 <p>
-    I am an ambitious and driven learner eager to apply my knowledge and skills to real-world challenges and projects. Currently, I am focusing on enhancing my expertise in Cloud Computing, Blockchain, and the MERN Stack.
+    I am an ambitious and driven learner eager to apply my knowledge and skills to real-world challenges and projects. Currently, I am focusing on enhancing my expertise in Cloud, DevSecOps, Backend Dev and SDLC as a whole.
 </p>
 
 <h3>Skills and Tools</h3>
